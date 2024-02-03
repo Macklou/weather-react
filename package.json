@@ -1,0 +1,14 @@
+{
+  "name": "weather-search-engine",
+  "version": "1.0.0",
+  "description": "A simple weather search engine built with React",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "axios": "^0.26.0"
+  }
+}
